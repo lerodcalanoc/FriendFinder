@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/l41lPkcK2Z6lxI1EY/giphy.gif)
 
-[Click here to launch the app.](https://yournewfriend.herokuapp.com/)
+["Click here to launch the app"](https://yournewfriend.herokuapp.com/)
 
  A compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site will take in results from  users' surveys, then compare the answers with those from other users. The app will then display the name and picture of the user with the best overall match. The app used Express to handle routing and it's deployed to Heroku.
  
