@@ -1,6 +1,6 @@
 # Friend Finder
 
-![](https://media.giphy.com/media/ijEiXYEo9DBxm/giphy.gif)
+![]()
 
 [Click here to launch the app.](https://yournewfriend.herokuapp.com/)
 
